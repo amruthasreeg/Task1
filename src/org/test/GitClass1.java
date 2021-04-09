@@ -16,7 +16,6 @@ public class GitClass1
  {
 	 System.out.println("demo 3");
  }
- 
  public void demo4()
  {
 	 System.out.println("demo 4");
@@ -31,6 +30,22 @@ public class GitClass1
  {
 	 System.out.println("demo 6");
  }
+ public void demo7()
+ {
+	 System.out.println("demo 7");
+ }
+ public void demo8()
+ {
+	 System.out.println("demo 8");
+ }
+ public void demo9()
+ {
+	 System.out.println("demo 9");
+
+ 
+
+
+ }
  public static void main(String args[])
  {
 	 GitClass1 gc=new GitClass1();
@@ -40,5 +55,12 @@ public class GitClass1
 	 gc.demo4();
 	 gc.demo5();
 	 gc.demo6();
+
+	 gc.demo7();
+	 gc.demo8();
+	 gc.demo9();
+
+	 
+
  }
 }
